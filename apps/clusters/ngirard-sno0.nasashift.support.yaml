@@ -24,7 +24,7 @@ metadata:
     apps.open-cluster-management.io/reconcile-option: merge
   labels:
     app: cluster-ngirard-sno0-nasashift-support
-  name: cluster-ngirard-sno0-tor-subscription-1
+  name: cluster-ngirard-sno0-subscription
   namespace: ztp-clusters
 spec:
   channel: ztp-clusters/ztp-repository
