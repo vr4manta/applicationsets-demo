@@ -1,8 +1,8 @@
 apiVersion: cluster.open-cluster-management.io/v1
 kind: ManagedCluster
 metadata:
-  name: ngirard-sno0-nasashift-support
-  namespace: ngirard-sno0-nasashift-support
+  name: ngirard-sno0
+  namespace: ngirard-sno0
   labels:
     name: "ngirard-sno0"
     sno: "true"
